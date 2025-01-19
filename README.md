@@ -38,15 +38,29 @@ This project simulates the generation and exploration of isomers of alkanes.
 
 1. Run the program:
 ```bash
-   python alkane_isomer_simulation.py
+   python main.py
 ```
 
 2. The program will prompt you to input the total number of carbons for the alkane.
 
 3. Results will be saved in `output.txt`.
 
+## Citation
+
+If you use this code or refer to this project in your work, please cite it as follows:
+
+```bibtex
+@misc{teng2025alkane,
+  author = {Teng, T. and Zhao, Hongxiang and Deng, Chongkun},
+  title = {Alkane Isomer Simulation},
+  year = {2025},
+  howpublished = {\url{https://github.com/yourusername/alkane-isomer-simulation}},
+  note = {Accessed: 2025-01-19}
+}
+```
 
 ## Contributing
 
 If you'd like to contribute to this project, feel free to submit a pull request. If you find any bugs or issues, please open an issue on the repository.
+
 
