@@ -1,0 +1,1173 @@
+When the main chain has 8 carbons, there are 244 isomers. So far, 554 isomers have been found.
+
+    C     Y     C   
+    |     |     |   
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C     y     C   
+    |     |     |   
+ C--C--C--C--C--C--C
+                    
+                    
+
+       C  y  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+                    
+                    
+
+       C  y     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C  X            
+    |  |            
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+       E  X         
+       |  |         
+ C--C--C--C--C--C--C
+                    
+                    
+
+          X         
+          |         
+ C--C--C--C--C--C--C
+          |         
+          E         
+
+    C  C  X         
+    |  |  |         
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C     X     C   
+    |     |     |   
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C     X         
+    |     |         
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+    C     X         
+    |     |         
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+       C  X  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+                    
+                    
+
+       C  X     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+                    
+                    
+
+       C  X         
+       |  |         
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+       C  X         
+       |  |         
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+          P         
+          |         
+ C--C--C--C--C--C--C
+          |         
+          P         
+
+    C  E  P         
+    |  |  |         
+ C--C--C--C--C--C--C
+                    
+                    
+
+       E  P  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+                    
+                    
+
+       E  P     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+                    
+                    
+
+       E  P         
+       |  |         
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+       E  P         
+       |  |         
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+    C     P         
+    |     |         
+ C--C--C--C--C--C--C
+          |         
+          E         
+
+       C  P         
+       |  |         
+ C--C--C--C--C--C--C
+          |         
+          E         
+
+    C  C  P  C      
+    |  |  |  |      
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C  C  P     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C  C  P         
+    |  |  |         
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+    C  C  P         
+    |  |  |         
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+    C  C  P         
+    |  |  |         
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+    C     P     C   
+    |     |     |   
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+    C     P     C   
+    |     |     |   
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+    C     P         
+    |     |         
+ C--C--C--C--C--C--C
+    |     |         
+    C     C         
+
+       C  P  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+       C  P  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+       C  P     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+       C  P     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+       C  P     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+                |   
+                C   
+
+       C  P         
+       |  |         
+ C--C--C--C--C--C--C
+       |  |         
+       C  C         
+
+    C  I  E         
+    |  |  |         
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C  I     E      
+    |  |     |      
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C  I            
+    |  |            
+ C--C--C--C--C--C--C
+       |            
+       E            
+
+    C  I  C  C      
+    |  |  |  |      
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C  I  C     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C  I  C         
+    |  |  |         
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+    C  I  C         
+    |  |  |         
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+    C  I  C         
+    |  |  |         
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+    C  I     C  C   
+    |  |     |  |   
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C  I     C      
+    |  |     |      
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+    C  I     C      
+    |  |     |      
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+    C  I        C   
+    |  |        |   
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+    C  I        C   
+    |  |        |   
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+    C  I        C   
+    |  |        |   
+ C--C--C--C--C--C--C
+                |   
+                C   
+
+    C  I            
+    |  |            
+ C--C--C--C--C--C--C
+    |  |            
+    C  C            
+
+          I         
+          |         
+ C--C--C--C--C--C--C
+          |         
+          I         
+
+    C  E  I         
+    |  |  |         
+ C--C--C--C--C--C--C
+                    
+                    
+
+       E  I  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+                    
+                    
+
+       E  I     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+                    
+                    
+
+       E  I         
+       |  |         
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+       E  I         
+       |  |         
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+    C     I         
+    |     |         
+ C--C--C--C--C--C--C
+          |         
+          E         
+
+       C  I         
+       |  |         
+ C--C--C--C--C--C--C
+          |         
+          E         
+
+    C  C  I  C      
+    |  |  |  |      
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C  C  I     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C  C  I         
+    |  |  |         
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+    C  C  I         
+    |  |  |         
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+    C  C  I         
+    |  |  |         
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+    C     I     C   
+    |     |     |   
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+    C     I     C   
+    |     |     |   
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+    C     I         
+    |     |         
+ C--C--C--C--C--C--C
+    |     |         
+    C     C         
+
+       C  I  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+       C  I  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+       C  I     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+       C  I     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+       C  I     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+                |   
+                C   
+
+       C  I         
+       |  |         
+ C--C--C--C--C--C--C
+       |  |         
+       C  C         
+
+       C     I  C   
+       |     |  |   
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+       E  E  E      
+       |  |  |      
+ C--C--C--C--C--C--C
+                    
+                    
+
+       E  E         
+       |  |         
+ C--C--C--C--C--C--C
+       |            
+       E            
+
+       E  E         
+       |  |         
+ C--C--C--C--C--C--C
+          |         
+          E         
+
+    C  E  E  C      
+    |  |  |  |      
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C  E  E     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C  E  E         
+    |  |  |         
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+    C  E  E         
+    |  |  |         
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+    C  E  E         
+    |  |  |         
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+       E  E  C  C   
+       |  |  |  |   
+ C--C--C--C--C--C--C
+                    
+                    
+
+       E  E  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+       E  E  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+       E  E     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+       E  E     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+       E  E     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+                |   
+                C   
+
+       E  E         
+       |  |         
+ C--C--C--C--C--C--C
+       |  |         
+       C  C         
+
+       E     E      
+       |     |      
+ C--C--C--C--C--C--C
+       |            
+       E            
+
+    C  E  C  E      
+    |  |  |  |      
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C  E     E  C   
+    |  |     |  |   
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C  E     E      
+    |  |     |      
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+    C  E     E      
+    |  |     |      
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+       E  C  E      
+       |  |  |      
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+       E  C  E      
+       |  |  |      
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+       E     E  C   
+       |     |  |   
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+       E     E      
+       |     |      
+ C--C--C--C--C--C--C
+       |     |      
+       C     C      
+
+    C  E  C         
+    |  |  |         
+ C--C--C--C--C--C--C
+       |            
+       E            
+
+    C  E     C      
+    |  |     |      
+ C--C--C--C--C--C--C
+       |            
+       E            
+
+    C  E        C   
+    |  |        |   
+ C--C--C--C--C--C--C
+       |            
+       E            
+
+    C  E            
+    |  |            
+ C--C--C--C--C--C--C
+    |  |            
+    C  E            
+
+       E  C  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+       |            
+       E            
+
+       E  C     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+       |            
+       E            
+
+       E  C         
+       |  |         
+ C--C--C--C--C--C--C
+       |  |         
+       E  C         
+
+       E     C  C   
+       |     |  |   
+ C--C--C--C--C--C--C
+       |            
+       E            
+
+       E     C      
+       |     |      
+ C--C--C--C--C--C--C
+       |     |      
+       E     C      
+
+       E        C   
+       |        |   
+ C--C--C--C--C--C--C
+       |        |   
+       E        C   
+
+    C  E  C  C  C   
+    |  |  |  |  |   
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C  E  C  C      
+    |  |  |  |      
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+    C  E  C  C      
+    |  |  |  |      
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+    C  E  C  C      
+    |  |  |  |      
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+    C  E  C     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+    C  E  C     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+    C  E  C     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+    C  E  C     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+                |   
+                C   
+
+    C  E  C         
+    |  |  |         
+ C--C--C--C--C--C--C
+    |  |            
+    C  C            
+
+    C  E  C         
+    |  |  |         
+ C--C--C--C--C--C--C
+    |     |         
+    C     C         
+
+    C  E  C         
+    |  |  |         
+ C--C--C--C--C--C--C
+       |  |         
+       C  C         
+
+    C  E     C  C   
+    |  |     |  |   
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+    C  E     C  C   
+    |  |     |  |   
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+    C  E     C  C   
+    |  |     |  |   
+ C--C--C--C--C--C--C
+                |   
+                C   
+
+    C  E     C      
+    |  |     |      
+ C--C--C--C--C--C--C
+    |  |            
+    C  C            
+
+    C  E     C      
+    |  |     |      
+ C--C--C--C--C--C--C
+       |     |      
+       C     C      
+
+    C  E        C   
+    |  |        |   
+ C--C--C--C--C--C--C
+    |  |            
+    C  C            
+
+    C  E        C   
+    |  |        |   
+ C--C--C--C--C--C--C
+    |           |   
+    C           C   
+
+    C  E        C   
+    |  |        |   
+ C--C--C--C--C--C--C
+       |        |   
+       C        C   
+
+       E  C  C  C   
+       |  |  |  |   
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+       E  C  C  C   
+       |  |  |  |   
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+       E  C  C  C   
+       |  |  |  |   
+ C--C--C--C--C--C--C
+                |   
+                C   
+
+       E  C  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+       |  |         
+       C  C         
+
+       E  C  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+       |     |      
+       C     C      
+
+       E  C     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+       |  |         
+       C  C         
+
+       E  C     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+       |        |   
+       C        C   
+
+       E  C     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+          |     |   
+          C     C   
+
+       E     C  C   
+       |     |  |   
+ C--C--C--C--C--C--C
+       |     |      
+       C     C      
+
+       E     C  C   
+       |     |  |   
+ C--C--C--C--C--C--C
+       |        |   
+       C        C   
+
+       C  E  E      
+       |  |  |      
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+    C  C  E         
+    |  |  |         
+ C--C--C--C--C--C--C
+          |         
+          E         
+
+    C     E     C   
+    |     |     |   
+ C--C--C--C--C--C--C
+          |         
+          E         
+
+    C     E         
+    |     |         
+ C--C--C--C--C--C--C
+    |     |         
+    C     E         
+
+       C  E  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+          |         
+          E         
+
+       C  E     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+          |         
+          E         
+
+       C  E         
+       |  |         
+ C--C--C--C--C--C--C
+       |  |         
+       C  E         
+
+    C  C  E  C  C   
+    |  |  |  |  |   
+ C--C--C--C--C--C--C
+                    
+                    
+
+    C  C  E  C      
+    |  |  |  |      
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+    C  C  E  C      
+    |  |  |  |      
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+    C  C  E  C      
+    |  |  |  |      
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+    C  C  E     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+    C  C  E     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+    C  C  E     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+    C  C  E     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+                |   
+                C   
+
+    C  C  E         
+    |  |  |         
+ C--C--C--C--C--C--C
+    |  |            
+    C  C            
+
+    C  C  E         
+    |  |  |         
+ C--C--C--C--C--C--C
+    |     |         
+    C     C         
+
+    C  C  E         
+    |  |  |         
+ C--C--C--C--C--C--C
+       |  |         
+       C  C         
+
+    C     E     C   
+    |     |     |   
+ C--C--C--C--C--C--C
+    |     |         
+    C     C         
+
+    C     E     C   
+    |     |     |   
+ C--C--C--C--C--C--C
+    |           |   
+    C           C   
+
+       C  E  C  C   
+       |  |  |  |   
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+       C  E  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+       |  |         
+       C  C         
+
+       C  E  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+       |     |      
+       C     C      
+
+       C  E     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+       |  |         
+       C  C         
+
+       C  E     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+       |        |   
+       C        C   
+
+       C  E     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+          |     |   
+          C     C   
+
+    C  C  C  E      
+    |  |  |  |      
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+    C  C     E  C   
+    |  |     |  |   
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+    C  C     E      
+    |  |     |      
+ C--C--C--C--C--C--C
+    |  |            
+    C  C            
+
+       C  C  E  C   
+       |  |  |  |   
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+       C  C  E      
+       |  |  |      
+ C--C--C--C--C--C--C
+       |  |         
+       C  C         
+
+       C     E  C   
+       |     |  |   
+ C--C--C--C--C--C--C
+       |        |   
+       C        C   
+
+    C  C  C  C  C   
+    |  |  |  |  |   
+ C--C--C--C--C--C--C
+    |               
+    C               
+
+    C  C  C  C  C   
+    |  |  |  |  |   
+ C--C--C--C--C--C--C
+       |            
+       C            
+
+    C  C  C  C  C   
+    |  |  |  |  |   
+ C--C--C--C--C--C--C
+          |         
+          C         
+
+    C  C  C  C      
+    |  |  |  |      
+ C--C--C--C--C--C--C
+    |  |            
+    C  C            
+
+    C  C  C  C      
+    |  |  |  |      
+ C--C--C--C--C--C--C
+    |     |         
+    C     C         
+
+    C  C  C  C      
+    |  |  |  |      
+ C--C--C--C--C--C--C
+       |  |         
+       C  C         
+
+    C  C  C  C      
+    |  |  |  |      
+ C--C--C--C--C--C--C
+       |     |      
+       C     C      
+
+    C  C  C     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+    |  |            
+    C  C            
+
+    C  C  C     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+    |     |         
+    C     C         
+
+    C  C  C     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+    |           |   
+    C           C   
+
+    C  C  C     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+       |  |         
+       C  C         
+
+    C  C  C     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+       |        |   
+       C        C   
+
+    C  C  C     C   
+    |  |  |     |   
+ C--C--C--C--C--C--C
+          |     |   
+          C     C   
+
+    C  C  C         
+    |  |  |         
+ C--C--C--C--C--C--C
+    |  |  |         
+    C  C  C         
+
+    C  C     C  C   
+    |  |     |  |   
+ C--C--C--C--C--C--C
+    |  |            
+    C  C            
+
+    C  C     C  C   
+    |  |     |  |   
+ C--C--C--C--C--C--C
+    |           |   
+    C           C   
+
+    C  C     C  C   
+    |  |     |  |   
+ C--C--C--C--C--C--C
+       |     |      
+       C     C      
+
+    C  C     C  C   
+    |  |     |  |   
+ C--C--C--C--C--C--C
+       |        |   
+       C        C   
+
+    C  C     C      
+    |  |     |      
+ C--C--C--C--C--C--C
+    |  |     |      
+    C  C     C      
+
+    C  C        C   
+    |  |        |   
+ C--C--C--C--C--C--C
+    |  |        |   
+    C  C        C   
+
+    C     C     C   
+    |     |     |   
+ C--C--C--C--C--C--C
+    |     |     |   
+    C     C     C   
+
+       C  C  C  C   
+       |  |  |  |   
+ C--C--C--C--C--C--C
+       |  |         
+       C  C         
+
+       C  C  C  C   
+       |  |  |  |   
+ C--C--C--C--C--C--C
+       |        |   
+       C        C   
+
+       C  C  C      
+       |  |  |      
+ C--C--C--C--C--C--C
+       |  |  |      
+       C  C  C      
+
+       C  C     C   
+       |  |     |   
+ C--C--C--C--C--C--C
+       |  |     |   
+       C  C     C   
+
+When the main chain has 7 carbons, there are 195 isomers. So far, 749 isomers have been found.
