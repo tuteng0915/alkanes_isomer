@@ -2,15 +2,6 @@
 
 This project simulates the generation and exploration of isomers of alkanes.
 
-## Features
-
-- **Isomer Generation:** Generates isomers for alkanes based on the number of carbon atoms.
-- **Substituent Support:** Supports multiple substituent groups, each with specific properties like balance and mass.
-- **Modes:** 
-  - Mode A: Search for isomers of a specified alkane.
-  - Mode B: Display each isomer, show all isomers, or show isomer counts for each main chain length.
-- **Output:** Results are printed to the console and saved to an output text file.
-
 ## Requirements
 
 - Python 3.x
@@ -41,9 +32,7 @@ This project simulates the generation and exploration of isomers of alkanes.
    python main.py
 ```
 
-2. The program will prompt you to input the total number of carbons for the alkane.
-
-3. Results will be saved in `output.txt`.
+2. Results will be saved in `output.txt`.
 
 ## Citation
 
@@ -51,7 +40,7 @@ If you use this code or refer to this project in your work, please cite it as fo
 
 ```bibtex
 @misc{teng2025alkane,
-  author = {Teng, T. and Zhao, Hongxiang and Deng, Chongkun},
+  author = {Teng Tu. and Hongxiang Zhao and Chongkun Deng},
   title = {Alkane Isomer Simulation},
   year = {2025},
   howpublished = {\url{https://github.com/yourusername/alkane-isomer-simulation}},
